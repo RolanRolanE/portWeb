@@ -132,6 +132,9 @@ header a:hover {
     .header2  {
         display: block;
     }
+    .header1{
+        display: none;
+    }
     
 }
 
